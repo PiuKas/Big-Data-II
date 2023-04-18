@@ -21,7 +21,7 @@ Con esto podemos concluir que el fenómeno que está generando esta liga es bast
 
 #### 3.  **¿Cómo han evolucionado (captura a captura) estas categorias a lo largo del mes?**
 Se han seleccionado las categorías más relevantes analizadas anteriormente y se ha añadido Fornite por ser la más stremeada. De nuevo, nos encontramos con unos datos cíclicos que tienen muchos altos y bajos. Estos se suelen producir por la presencia de eventos, como es el caso del pico del día 28, con los Squid Games. Pasa lo mismo con el día 26, que como se ha dicho anteriormente, fue el día en que Ronaldinho fue a la Kings League.
-![[Ejercicio3 1.png]]
+![Ejercicio3 1.png](https://github.com/PiuKas/Big-Data-II/blob/main/Ex_pandas/Ejercicio3.png) 
 
 #### 4. **¿Cuál es la distribución de los streamers si los clasificamos por volumenes de audiencia y horas realizadas?**
 Si clasificamos a los streamers según volumen de audiencia y horas realizas y usamos una escala logarítmica para hacer un gráfico de dispersión el resultado será el siguiente:
