@@ -116,7 +116,7 @@ for file in files:  #Para los datos en el dataset
             #print(df)
             llista_dfs.append(df) #Salimos del bucle para guardar los datos en el dataframe
 df_final = pd.concat(llista_dfs)
-llista_dfs.to_csv("final.csv", index=False)
+llista_dfs.to_csv("final.csv", sep=",", index=False)
 
 # Analizar el archivo .json y comprender cuál es su estructura.
 # Entender qué datos tenemos disponibles.
